@@ -87,7 +87,7 @@ peculiares ficar colocando a mão dentro do código do set.
 
 ### Resultado após contorna a fefesa da página do facebook
 
-![Alt text](./usersenhascapturados.JPG "Optional title")
+![Alt text](./usersenhacapturados.JPG "Optional title")
 
 
 
