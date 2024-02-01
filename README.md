@@ -29,4 +29,5 @@ da página web , espcecialmente login e senha. Essa defesa é justamente contra 
 -Uma solução pode ser atualizando o script python do setoolkit. Contudo não é muito interessante ficar a cada site com suas defesas
 peculiares ficar colocando a mão dentro do código do set.
 -Outra solução é a oferecida pelo próprio setoolkit que é realizar uma importação customizada (Custon Import) no lugar da clonagem direta( Site Cloner). Na importação customizada iremos clonar um código fonte manipulado da página original. 
+
 ![Alt text](./Capturar13.JPG "Optional title")
