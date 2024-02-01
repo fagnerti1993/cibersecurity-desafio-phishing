@@ -20,7 +20,7 @@
 
 ![Alt text](./passwd.png "Optional title")
 
-### Resultado Ataul do Facebook com Defesa
+### Resultado Atual do Facebook com Defesa
 -Observem que o site do facebook está usando um script que deve estar fazendo hashs e codifgicado em base64 os dados 
 da página web , espcecialmente login e senha. Essa defesa é justamente contra script maliciosos pouco elaborados.
 ![Alt text](./Capturar21.JPG "Optional title")
