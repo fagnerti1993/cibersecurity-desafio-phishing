@@ -33,6 +33,16 @@ peculiares ficar colocando a mão dentro do código do set.
 ![Alt text](./Capturar13.JPG "Optional title")
 
 ### Passo 1 
--Salve a página do facebook e também inspecione o botão log in.
+-Salve a página do facebook e também inspecione o botão log in e anote seu id.
 
 ![Alt text](./Capturar.JPG "Optional title")
+
+-id do botão
+
+![Alt text](./Capturar5.JPG "Optional title")
+
+-Aproveite para renomear logo a págna salva para index.html, pois o setookit usa esse nome por padrão.
+
+![Alt text](./Capturar17.JPG "Optional title")
+
+### Passo 2 
