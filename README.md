@@ -65,7 +65,7 @@ peculiares ficar colocando a mão dentro do código do set.
 ### Passo 3 
 -Vamos remover a linha do script
 
-![Alt text](./Capturar4.JPG "Optional title")
+![Alt text](./Capturar23.JPG "Optional title")
 
 ### Passo 4 
 -Selecionamos agora no setoolkit Custom Import e em seguida devemos apontar a pasta do código fonte da página. 
@@ -80,6 +80,10 @@ peculiares ficar colocando a mão dentro do código do set.
 -Selecione copiar a pasta inteira (Copy entire folder)
 
 ![Alt text](./Capturar18.JPG "Optional title")
+
+-Defina como www.facebook.com
+
+![Alt text](./Capturar19.JPG "Optional title")
 
 
 
