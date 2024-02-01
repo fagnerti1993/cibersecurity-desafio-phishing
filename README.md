@@ -67,5 +67,15 @@ peculiares ficar colocando a mão dentro do código do set.
 
 ![Alt text](./Capturar4.JPG "Optional title")
 
+### Passo 4 
+-Selecionamos agora no setoolkit Custom Import e em seguida devemos apontar a pasta do código fonte da página. 
+- Copie o path  da pasta
+ 
+![Alt text](./Capturar14.JPG "Optional title")
+
+-Cole o path no setookit
+
+![Alt text](./Capturar15.JPG "Optional title")
+
 
 
