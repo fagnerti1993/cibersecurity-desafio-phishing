@@ -19,3 +19,6 @@
 ### Resutados para Versão do Facebook sem Defesa 
 
 ![Alt text](./passwd.png "Optional title")
+
+### Resultado Ataul do Facebook com Defesa
+![Alt text](./Capturar21.jpg "Optional title")
