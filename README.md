@@ -46,3 +46,16 @@ peculiares ficar colocando a mão dentro do código do set.
 ![Alt text](./Capturar17.JPG "Optional title")
 
 ### Passo 2 
+-Na situação atual do código salvo, se abrirmos no navegador veremos a página do facebook muito feia, toda desconfigurada, pois os scripts e carregamentos de css não executam corretamente se carregados localmente. Aqui caberia horas e horas mudando o código fonte se realmente desejameos um trabalho bem elaboado. Um belo exercício de front-end.
+
+![Alt text](./Capturar2.JPG "Optional title")
+
+-Obviamente vamos cortar caminho. Simplesmente vamos copiar o código fonte online do wwww.facebook.com no nosso arquivo index.html
+
+![Alt text](./Capturar6.JPG "Optional title")
+
+### Passo 3 
+-Vamos remover a linha 
+
+
+
