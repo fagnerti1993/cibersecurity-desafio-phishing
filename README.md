@@ -54,8 +54,18 @@ peculiares ficar colocando a mão dentro do código do set.
 
 ![Alt text](./Capturar6.JPG "Optional title")
 
+-Podemos ver na imagem que a página já carrega como se fosse a página online. No print a seguir, ainda não se tinha renomeado a página local para index.html
+
+![Alt text](./Capturar8.JPG "Optional title")
+
+-Ao procurarmos id do botão veremos onde ele está sendo manipulado no código fonte. Isso deu uma dica rápida de qual chamada de script deveria ser deletada.
+
+![Alt text](./Capturar24.JPG "Optional title")
+
 ### Passo 3 
--Vamos remover a linha 
+-Vamos remover a linha do script
+
+![Alt text](./Capturar4.JPG "Optional title")
 
 
 
