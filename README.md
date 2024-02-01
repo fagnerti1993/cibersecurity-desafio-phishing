@@ -73,9 +73,13 @@ peculiares ficar colocando a mão dentro do código do set.
  
 ![Alt text](./Capturar14.JPG "Optional title")
 
--Cole o path no setookit
+-Cole o path no setoolkit
 
 ![Alt text](./Capturar15.JPG "Optional title")
+
+-Selecione copiar a pasta inteira (Copy entire folder)
+
+![Alt text](./Capturar18.JPG "Optional title")
 
 
 
